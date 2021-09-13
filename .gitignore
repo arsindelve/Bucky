@@ -362,3 +362,6 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /Temp
+/Library/ShaderCache
+/Library/PlayerDataCache/Win64
+/Library/BuildPlayerData
